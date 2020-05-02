@@ -13,6 +13,17 @@
 - [x] Filter according to gender
 - [x] Profile Image
 
+## How To Run
+```
+git clone https://github.com/saadhaxxan/Contact-Manager-Django.git
+cd Contact-Manager-Django
+python manage.py runserver
+```
+## Access to the Admin Panel
+```
+python manage.py createsuperuser
+```
+
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
