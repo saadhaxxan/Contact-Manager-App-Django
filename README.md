@@ -1,4 +1,4 @@
-<h1 align="center">Contact-Manager-Django</h1>
+<h1 align="center">Contact-Manager-App-Django</h1>
 <a href="#">
   <div align="center">
     <img src="screenshot.png" width='700'/>
@@ -12,6 +12,9 @@
 - [x] Delete
 - [x] Filter according to gender
 - [x] Profile Image
+
+## Live Demo
+http://saadhaxxan2.pythonanywhere.com/
 
 ## How To Run
 ```
