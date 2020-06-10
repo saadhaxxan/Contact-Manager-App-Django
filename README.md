@@ -13,8 +13,7 @@
 - [x] Filter according to gender
 - [x] Profile Image
 
-## Live Demo
-http://saadhaxxan2.pythonanywhere.com/
+
 
 ## How To Run
 ```
