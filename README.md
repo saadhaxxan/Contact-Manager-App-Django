@@ -1,4 +1,4 @@
-<h1 align="center">Contact-Manager-App-Django</h1>
+<h1 align="center">Contact Manager App Django</h1>
 <a href="#">
   <div align="center">
     <img src="screenshot.png" width='700'/>
