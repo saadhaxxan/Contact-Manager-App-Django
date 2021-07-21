@@ -7,13 +7,10 @@
 
 ## Functionalities
 - [x] User Authentication
-- [x] Search
-- [x] Real Time Update from Admin
-- [x] Delete
-- [x] Filter according to gender
+- [x] Gender Based Search
+- [x] Database CRUD
+- [x] User Authorization
 - [x] Profile Image
-
-
 
 ## How To Run
 ```
