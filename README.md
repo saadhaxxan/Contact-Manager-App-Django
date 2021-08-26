@@ -16,6 +16,7 @@
 ```
 git clone https://github.com/saadhaxxan/Contact-Manager-Django.git
 cd Contact-Manager-Django
+pip install -r requirements.txt
 python manage.py runserver
 ```
 ## Access to the Admin Panel
